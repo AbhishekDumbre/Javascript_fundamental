@@ -1,0 +1,4 @@
+// Basic usage
+const name = "Alice";
+const greeting = `Hello, ${name}!`;
+console.log(greeting); // Hello, Alice!
